@@ -34,3 +34,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+![Ankti's github stats](https://github-readme-stats.vercel.app/api?username=ankysony&hide=contribs,prs&theme=dark)
