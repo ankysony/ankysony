@@ -35,4 +35,4 @@
 
 ---
 
-![Ankti's github stats](https://github-readme-stats.vercel.app/api?username=ankysony&hide=contribs,prs&theme=dark)
+![Ankti's github stats](https://github-readme-stats.vercel.app/api?username=ankysony&hide=contribs,prs&theme=radical)
