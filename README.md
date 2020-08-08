@@ -1,5 +1,8 @@
 ### Hi! Digital Traveller, I'm  [Ankit Soni](https://ankitsoni.club) 👋
 
+[![Software | 100 Days of Code](https://www.software.com/badges/100-days-of-code)](https://www.software.com/100-days-of-code)
+
+
 ## I'm a fresh Graduate | Developer | IITian !
 - 🔭 I’m currently working on [my-react-boilerplate](https://github.com/ankysony/my-react-boilerplate)!
 - 🌱 I’m currently learning everything 🤣
@@ -35,4 +38,4 @@
 
 ---
 
-![Ankti's github stats](https://github-readme-stats.vercel.app/api?username=ankysony&hide=contribs,prs&theme=radical)
+![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankysony&hide=contribs,prs&theme=radical)
