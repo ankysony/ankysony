@@ -29,6 +29,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Reasons why javascript is hated by developers.](https://dev.to/ankysony/5-reasons-why-javascript-is-hated-by-developers-2mob)
+- [How did promise evolve in Javascript? ](https://dev.to/ankysony/how-did-promise-evolve-in-javascript-2fcp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
