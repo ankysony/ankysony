@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [my-react-boilerplate](https://github.com/ankysony/my-react-boilerplate)!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love listening to [Arijit singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw).
+- ⚡ Fun fact: I love listening to [Arijit singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) and doing yoga in the morning.
 
 ### Connect with me:
 
@@ -15,6 +15,8 @@
 [<img align="left" alt="Ankit Soni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dev_with_ankit)
 [<img align="left" alt="Ankit Soni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ankit-soni-991495152/)
 [<img align="left" alt="Ankit Soni| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/anky_sony/)
+[<img align="left" alt="Ankit Soni| Instagram" width="22px" src="dev.svg" />](https://dev.to/ankysony)
+
 
 <br />
 
@@ -35,6 +37,7 @@
 - [5 Reasons why javascript is hated by developers.](https://dev.to/ankysony/5-reasons-why-javascript-is-hated-by-developers-2mob)
 - [How did promise evolve in Javascript? ](https://dev.to/ankysony/how-did-promise-evolve-in-javascript-2fcp)
 <!-- BLOG-POST-LIST:END -->
+
 
 ---
 
