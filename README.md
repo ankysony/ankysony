@@ -15,7 +15,7 @@
 [<img align="left" alt="Ankit Soni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dev_with_ankit)
 [<img align="left" alt="Ankit Soni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ankit-soni-991495152/)
 [<img align="left" alt="Ankit Soni| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/anky_sony/)
-<!-- [<img align="left" alt="Ankit Soni| Instagram" width="22px" src="dev.svg" />](https://dev.to/ankysony) -->
+[<img align="left" alt="Ankit Soni| Instagram" width="22px" src="https://user-images.githubusercontent.com/66863499/89724039-a2e35100-da1b-11ea-84bc-58035b5a78ca.png" />](https://dev.to/ankysony)
 
 
 <br />
