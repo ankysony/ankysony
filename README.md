@@ -6,9 +6,9 @@
 
 ## I'm a fresh Graduate | Developer | IITian !
 - 🔭 I’m currently working on [my-react-boilerplate](https://github.com/ankysony/my-react-boilerplate)!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love listening to [Arijit singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) and doing yoga in the morning.
+- 🌱 I’m currently learning ⚛️ React.
+- 🥅 Goals: Build some projects and also try contributing to other's project.
+-  Fun fact: I love listening to [Arijit singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) and doing yoga in the morning.
 
 ### Connect with me:
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [5 Reasons why javascript is hated by developers.](https://dev.to/ankysony/5-reasons-why-javascript-is-hated-by-developers-2mob)
 - [How did promise evolve in Javascript? ](https://dev.to/ankysony/how-did-promise-evolve-in-javascript-2fcp)
