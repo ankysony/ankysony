@@ -6,7 +6,7 @@
 
 ## I'm a fresh Graduate | Developer | IITian !
 - 🔭 I’m currently working on [my-react-boilerplate](https://github.com/ankysony/my-react-boilerplate)!
-- 🌱 I’m currently learning ⚛️ React.
+- 🌱 I’m currently learning Reactjs and Nodejs.
 
 ### Connect with me:
 
