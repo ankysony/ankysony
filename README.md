@@ -7,8 +7,6 @@
 ## I'm a fresh Graduate | Developer | IITian !
 - 🔭 I’m currently working on [my-react-boilerplate](https://github.com/ankysony/my-react-boilerplate)!
 - 🌱 I’m currently learning ⚛️ React.
-- 🥅 Goals: Build some projects and also try contributing to other's project.
--  Fun fact: I love listening to [Arijit singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) and doing yoga in the morning.
 
 ### Connect with me:
 
@@ -41,7 +39,7 @@
 
 ---
 
-### 📗 Books ReadingList
+### 📗 Books Read
 | Book | Author | Description |
 | :---: | :---: | :--- |
 | <mark>Too Much and Never Enough</mark> | Mary L. Trump (niece of donald trump). | Depicts Donald trump to be the most dangerous man created because of his family. |
