@@ -10,12 +10,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ankitsoni" target="_blank" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ankitsoni.club)
 [<img align="left" alt="Ankit Soni | Twitter" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dev_with_ankit)
 [<img align="left" alt="Ankit Soni | LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ankit-soni-991495152/)
 [<img align="left" alt="Ankit Soni| Instagram" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/anky_sony/)
 [<img align="left" alt="Ankit Soni| Medium" width="22px" target="_blank" src="https://user-images.githubusercontent.com/66863499/90489073-6ec60980-e15a-11ea-8911-29eee1dd6728.png" />](https://medium.com/@ankisoni453)
 [<img align="left" alt="Ankit Soni| Medium" width="22px" target="_blank" src="https://user-images.githubusercontent.com/66863499/89724039-a2e35100-da1b-11ea-84bc-58035b5a78ca.png" />](https://dev.to/ankysony)
+[<img align="left" alt="ankitsoni" target="_blank" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ankitsoni.club)
 
 
 <br />
