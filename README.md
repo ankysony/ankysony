@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 This weeks statistics
+### 📊 This week's statistics
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
