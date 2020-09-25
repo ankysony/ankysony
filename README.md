@@ -41,16 +41,6 @@
 
 ---
 
-### 📗 Books Read
-| Book | Author | Description |
-| :---: | :---: | :--- |
-| <mark>Too Much and Never Enough</mark> | Mary L. Trump (niece of donald trump). | Depicts Donald trump to be the most dangerous man created because of his family. |
-| <mark>Atomic Habits</mark> | James Clear | Best productivity book I have ever read. It shows how you can learn about building atomic habits. |
-| <mark>Power of your subconscious mind</mark> | Joseph Murphy | Explains how your subconscious mind influences every single aspect of your life. |
-| <mark>Game of Thrones</mark> | George R.R. Martin | Must read if you loved game of thrones tv series. |
-
----
-
 ### 📊 This week's statistics
 <!--START_SECTION:waka-->
 ```text
