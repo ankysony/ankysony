@@ -39,8 +39,7 @@
 ### 📊 This week's statistics
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 mins         █████████████▓░░░░░░░░░░░   54.25 % 
-Markdown     8 mins          ███████████▒░░░░░░░░░░░░░   45.75 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
