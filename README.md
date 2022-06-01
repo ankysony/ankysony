@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! Digital Traveller, I'm Ankit Soni.
+### Hi! Digital Traveller, I'm Ankit Soni.
 
 
 ## I'm a fresh Graduate | Developer | IITian !
