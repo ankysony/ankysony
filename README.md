@@ -1,7 +1,7 @@
 ### Hi! Digital Traveller, I'm Ankit Soni.
 
 
-## I'm a fresh Graduate | Developer | IITian !
+## I'm a Software engineer Developer at Morgan Stanley
 
 
 ### Connect with me:
