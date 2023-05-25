@@ -11,7 +11,6 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How habits are formed?](https://medium.com/@ankisoni453/how-habits-are-formed-2c80a04e7048?source=rss-ffc12680fd46------2)
 - [5 Reasons why javascript is hated by developers.](https://dev.to/ankysony/5-reasons-why-javascript-is-hated-by-developers-2mob)
 - [How did promise evolve in Javascript?](https://dev.to/ankysony/how-did-promise-evolve-in-javascript-2fcp)
 <!-- BLOG-POST-LIST:END -->
